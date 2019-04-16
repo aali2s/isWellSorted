@@ -13,7 +13,7 @@ public class isWellSortedTest {
 		//String[][] array = { { "A", "C" }, { "C", "D" }, { "B", "C" }};
 		//String[][] array = { { "A", "B" }, { "B", "C" }};
 		g=new Graph(array);
-	}
+	}     
 	
 
 	@Test
