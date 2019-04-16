@@ -9,8 +9,8 @@ public class isWellSortedTest {
 	
 	@Before
 	public void setUp() {
-		String[][] array = { { "5", "0" }, { "4", "0" }, { "5", "2" }, { "4", "1" }, { "3", "1" }, { "2", "3" }};
-		//String[][] array = { { "A", "C" }, { "C", "D" }, { "B", "C" }};
+		//String[][] array = { { "5", "0" }, { "4", "0" }, { "5", "2" }, { "4", "1" }, { "3", "1" }, { "2", "3" }};
+		String[][] array = { { "A", "C" }, { "C", "D" }, { "B", "C" }};
 		//String[][] array = { { "A", "B" }, { "B", "C" }};
 		g=new Graph(array);
 	}     
