@@ -14,7 +14,7 @@ public class isWellSortedTest {
 		//String[][] array = { { "A", "B" }, { "B", "C" }};
 		g=new Graph(array);
 	}     
-	
+	    
 
 	@Test
 	public void testIsWellSorted() {
